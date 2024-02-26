@@ -1,0 +1,9 @@
+#symbolTable {
+    position: fixed;
+    top:0;
+    right: 10px;
+    color: #FFFFFF;
+    background-color: #000000;
+    border: 1px solid #cccccc;
+    padding: 10px;
+}
